@@ -1,0 +1,16 @@
+#disclaimer {
+	margin: 0;
+	padding: 0.5em;
+	background-color: orange;
+	color: black;
+	font-size: larger;
+	text-align: center;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.italic {
+	font-style: italic;
+}
